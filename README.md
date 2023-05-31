@@ -8,6 +8,10 @@ This work was performed in collaboration with master students at the [University
 
 <img width="50%" src="https://data.cervantesvirtual.com/mediacontent/2023/05/framework.png">
 
+List of notebooks:
+
+- [Generating a wordcloud based on the text annotated](https://nbviewer.org/github/cbvmclabs/DARIAH-Annual-Event-2023/blob/main/notebooks/text-wordcloud.ipynb)
+
 ## Poster
 This work was presented as a poster in the event. 
 
