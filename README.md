@@ -8,7 +8,7 @@ This work was performed in collaboration with master students at the [University
 
 <img width="50%" src="https://data.cervantesvirtual.com/mediacontent/2023/05/framework.png">
 
-List of notebooks:
+This project has generated a list of notebooks as examples of reuse that can be useful to analyse the content:
 
 - [Generating a wordcloud based on the text annotated](https://nbviewer.org/github/cbvmclabs/DARIAH-Annual-Event-2023/blob/main/notebooks/text-wordcloud.ipynb)
 
