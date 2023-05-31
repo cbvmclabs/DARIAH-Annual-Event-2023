@@ -4,7 +4,7 @@ This project was presented at the [DARIAH Annual Event 2023](https://www.dariah.
 ## Introduction
 This work was performed in collaboration with master students at the [University of Alicante](https://www.ua.es/) to annotate a selection of [TEI](https://tei-c.org/) works provided by the Biblioteca Virtual Miguel de Cervantes. [Wikidata](https://www.wikidata.org/) was used as an external repository to enrich the text by using organizations, people, locations, and deities and mythical creatures.
 
-<img src="https://data.cervantesvirtual.com/mediacontent/2023/05/framework.png">
+<img width="50%" src="https://data.cervantesvirtual.com/mediacontent/2023/05/framework.png">
 
 ## Poster
 This work was presented as a poster in the event. 
