@@ -1,0 +1,1093 @@
+<wikidata ref="https://www.wikidata.org/wiki/Q335179" type="mit">Hipogrifo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q203480" type="mit">Faetonte</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q36" type="place">Polonia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q129866" type="mit">
+monstruo de su laberinto</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q16990" type="place">Etna</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q182790" type="mit">quimeras</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q36" type="mit">Polonia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q178831" type="mit">Aurora</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q457294" type="mit">Palas</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q209644" type="mit">Flora</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q178831" type="mit">Aurora</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q209644" type="mit">Flora</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q457294" type="mit">Palas</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q170770" type="place">Moscovia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q170770" type="place">Moscovia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q36303">Tales</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q8747">Euclides</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q707873">Timantes</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q192222">Lisipo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q302" type="mit">Cristo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q2054">Séneca</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q170770" type="place">Moscovia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q36" type="place">Polonia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q36" type="place">Polonia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q170770" type="place">Moscovia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q48444" type="mit">fénix</wikidata>
+<wikidata>
+Nicomedes</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q15946621" type="event">concilio Niceno</wikidata>
+<wikidata>San Secreto</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q170770" type="place">Moscovia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q170770" type="place">Moscovia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q220" type="place">
+Roma</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q36" type="place">Polonia</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q170770">Moscovia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q190582" type="mit">Danae</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q182019" type="mit">Leda</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q165170" type="mit">Europa</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q82732?wprov=srpw1_0" type="mit">Eneas</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5684" type="place">Babilonia</wikidata>
+<wikidata>Nerón</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q171150" type="place">Hungría</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q171150" type="place">Hungría</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q22647" type="place">Troya</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q235113" type="mit">ángel</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q187602" type="mit">Circe</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q174278" type="mit">Medea</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q566">Purgatorio</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q564" type="mit">Infierno</wikidata>
+<wikidata type="mit">Cielo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q302" type="mit">Jesús</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q345" type="mit">Virgen preñada y parida</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q345" type="mit">Madre del <wikidata ref="https://www.wikidata.org/wiki/Q302" type="mit">Eterno Hijo</wikidata></wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q302" type="mit">Eterno Hijo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Eterno Padre</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q177413" type="mit">demonio</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q302" type="mit">Jesús</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q345" type="mit">María</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q302" type="mit">Cristo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q235113" type="mit">ángel</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q130818" type="mit">Atlante</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q1149052">calle Mayor</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q6674" type="place">el diablo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q313417" type="mit">Barrabás</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q2364997" type="place">calle de las Huertas</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q5740988">calle del Carmen</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q2001937">San Blas</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q2364997">calle de las Huertas</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q427163">Puerta del Sol</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q15788209">calle del Lobo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q220" type="place">Roma</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q6674">diablo</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q4304392">Moscovia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q2471772">Pie de Palo</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q209682">golfo de Leplanto</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q336446" type="place">Abido</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q10316761" type="mit">Leandros</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q181359" type="place">Talavera</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q752280" type="place">Almagro</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q4304392" type="place">Moscovia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q752280" type="place">Almagro</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q656196" type="place">Fuencarral</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q656196" type="place">Fuencarral</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q752280" type="place">Almagro</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q2807" type="place">Madrid</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q302">Cristo</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q752280">Almagro</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q217196">Castilla</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q752280" type="place">Almagro</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q427163" type="place">Puerta del Sol</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q6080240" type="place">Platería</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q11959" type="place">Alicante</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q20026775" type="place">San Luis</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q752280" type="place">Almagro</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q2807" type="place">Madrid</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q427163" type="place">Puerta del Sol</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q152519">basilisco</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q752280" type="place">Almagro</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q752280" type="place">Almagro</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q8810">Granada</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q752280" type="place">Almagro</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q844209" type="place">la Mancha</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q752280" type="place">Almagro</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q2807">Madrid</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q2807" type="place">Madrid</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q1630860">los mandamientos</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q2807" type="place">Madrid</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q752280">Almagro</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q2364997" type="place">calle de las Huertas</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q752280" type="place">Almagro</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q844209">la Mancha</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q16389845" type="place">calle del Prado</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q43958">al Cid</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q183" type="place">Alemania</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q2807" type="place">Madrid</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q752280" type="place">Almagro</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q844209">la Mancha</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q6674" type="mit">diablo</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5492657" type="place">Atocha</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata>Dios</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q6140014">del Príncipe</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q7691978">de la Cruz</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1442310">Francisco de Rojas</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q8409">Alejandro</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q160381">Ocidente</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q859">Platón</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1413">Nerón</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1460" type="place">Sicilia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q2656" type="place">Palermo</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q35045">Potosí</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q179256" type="mit">Narciso</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q2656">Palermo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q187602" type="mit">Circe</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q270227">Laura</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q232913">Beatriz</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q13409873" type="mit">Píramo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q10316761" type="mit">Leandro</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q1460">Sicilia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q54939" type="place">Valencia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q54939">Valencia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5836" type="place">Toledo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q54939" type="place">Valencia</wikidata>
+<wikidata type="mit">cuatro elementos</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q302" type="mit">Jesús</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q1460">Sicilia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q836948" type="place">Toro</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1460" type="place">Sicilia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q270867" type="mit">madre la tierra</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1460" type="place">Sicilia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q29" type="place">España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1460" type="place">Sicilia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5836" type="place">Toledo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q29" type="place">España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q4018" type="place">Navarra</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q173063" type="place">Castilla</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q173063" type="place">Castilla</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q635">Cleopatra</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q51673">Antonio</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q179256" type="mit">Narciso</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q207368" type="mit">Eco</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q179256" type="mit">Narciso</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q255448">Porcia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q163920" type="mit">Adonis</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q47652">Venus</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q164061" type="mit">Elena</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q167646" type="mit">Paris</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q187602">Circe</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q38" type="place">Italia</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q54939">Valencia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q54939" type="place">Valencia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q54939" type="place">Valencia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q54939" type="place">Valencia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q54939" type="place">Valencia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q2634">Nápoles</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q8409">Alejandro</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1149081" type="place">Oriente</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q46" type="place">Europa</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q29" type="place">España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q29" type="place">España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1460" type="place">Sicilia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q29" type="place">España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q95088" type="place">Sevilla</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q41" type="place">Grecia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q59180">Diógenes</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q280872">Timón</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q54939" type="place">Valencia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q46" type="place">Europa</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q29" type="place">España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q95088" type="place">Sevilla</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5723871" type="place">Baños de la Reina Mora</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q197044">Zeusis</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q164061" type="mit">Elena</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q642200">Medina</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q642200">Sidonia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q95088" type="place">Sevilla</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q222702" type="place">Tarifa</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q15" type="place">África</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q122248" type="mit">Heracles</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q15" type="place">África</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q642200" type="place">Medina</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q15" type="place">África</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q22647" type="place">Troya</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q642200">Sidonia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1460" type="place">Sicilia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q179256" type="mit">Narciso</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q182101" type="mit">Tántalo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q220" type="place">Roma</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q16990" type="place">Mongibelo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q54939" type="place">Valencia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q95088" type="place">Sevilla</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1460" type="place">Sicilia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q50193" type="mit">caballo de Troya</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q29" type="place">España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q54939" type="place">Valencia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q95088" type="place">Sevilla</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q641" type="place">Venecia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q29" type="place">España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q48444" type="mit">fénix</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q6008280" type="place">Mecina</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1460" type="place">Sicilia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q29" type="place">España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q311405">Laso</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q389233">Manrique</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q54939" type="place">Valencia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q302" type="mit">Jesús</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q29" type="place">España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q3392" type="place">Nilo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q29" type="place">España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1460" type="place">Sicilia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q2656" type="place">Palermo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q29" type="place">España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q302" type="mit">Jesús</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q5813">Canaria</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q54939" type="place">Valencia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q597" type="place">Lisboa</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q142">Francia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q183" type="place">alemanes</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q45" type="place">portugueses</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q2044" type="place">Florencia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q486792" type="place">Aranjuez</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q29" type="place">España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q29" type="place">España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q38" type="place">Italia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q163920" type="mit">Adonis</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q47652" type="mit">Venus</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1460" type="place">Sicilia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1460" type="place">Sicilia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q2656" type="place">Palermo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q193506">Catón</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q54939" type="place">Valencia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q302" type="mit">Jesús</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q54939" type="place">Valencia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q54939" type="place">Valencia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q54939" type="place">Valencia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q29" type="place">España</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q22647" type="place">Troya</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q663792" type="mit">Sinón</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q54939" type="place">Valencia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q29" type="place">España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q302" type="mit">Jesús</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1149081" type="place">Oriente</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q187602" type="mit">Circe</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q176758">Jasón</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q212262" type="mit">vellocino</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q54939" type="place">Valencia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q187602" type="mit">Circe</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q142">Francia</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q29">España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q29" type="place">España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q668" type="place">India</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q38" type="place">Italia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q142" type="place">Francia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q501768" type="place">Berbería</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q95088" type="place">Sevilla</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q181360" type="mit">arpía</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1460" type="place">Sicilia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1460" type="place">Sicilia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q95088" type="place">Sevilla</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q95088" type="place">Sevilla</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q179256">Narciso</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q1210">Lombardía</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1091243" type="place">El laberinto de Creta</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q130818" type="mit">Atalante</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q69034392">el jardín de Falerina,</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q1016">Libia</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q57751375">Arabia</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q302" type="mit">Jesús</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q181360" type="mit">harpía</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q182559">sirena</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q235113" type="mit">ángel</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q373916" type="mit">ninfas</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q142" type="place">Francia</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q235113">ángel</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q47652" type="mit">Venus</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q164061" type="mit">Elena</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q37340" type="mit">Apolo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1150" type="mit">Mercurio</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q112" type="mit">Marte</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q132543" type="mit">Diana</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q132543" type="mit">Dianas</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q165769" type="mit">Penélope</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q229432">Lucrecia</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q255448">Porcia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q172248">Bruto</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q229432" type="mit">Lucrecias</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q82866" type="event">Cuaresma</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q5011">Amor</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q50193">gran caballo troyano</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q969022">San Ginés</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q302" type="mit">Jesús</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q302" type="mit">Cristo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q289957" type="mit">Jacob</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q207389" type="mit">Raquel</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q128847" type="mit">Lía</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q194015" type="mit">Dafne</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q3954" type="mit">Neptuno</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q182559" type="mit">sirenas</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q194015">Dafne</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q14376066">hoy en laurel convertida</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q1413">Nerón</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q220" type="place">Roma</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1149081" type="place">Oriente</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q604898" type="mit">Lucina</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5011" type="mit">Amor</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q182559" type="mit">sirena</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5011" type="mit">Cupido</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1149081" type="mit">Oriente</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5011" type="mit">Amor</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q235113">ángel</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q187602">Circe</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q174278">Medea</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q488621" type="mit">Anajareta</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q302">Jesucristo</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q6674" type="mit">diablo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q182559" type="mit">sirena</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q5011">Cupido</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5011" type="mit">Amor</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q235113" type="mit">ángel</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q235113" type="mit">ángel</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q194077">serafín</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q43423">Isopo </wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5011" type="mit">Amor</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1614795" type="place">Lerma</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q174278" type="mit">Medea</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q75459">Delfos</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1048">César</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1048">César</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q5011">Cupido</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q5011">Amor</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q302" type="mit">Jesús</wikidata>
+<wikidata>Homero</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q189901" type="place">Argos</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5011" type="mit">Amor</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q160730" type="mit">Medusa</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q302" type="mit">Jesús</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5011" type="mit">Amor</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q302" type="mit">Jesucristo</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q174546" type="mit">Antecristo</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q302">Jesús</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q302">Jesús</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q1821239">día del Juicio</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q302">Cristo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q828579" type="mit">Salmacis</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q207368" type="mit">Eco</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q204146" type="mit">Hermafrodito</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q81018" type="mit">Judas</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5011" type="mit">Cupido</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q302">Jesús</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q5011">Amor</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q5011">Amor</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q5011">Amor</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q302">Jesús</wikidata>
+<wikidata type="mit">Cupido</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q181360" type="mit">harpias</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1944965">infanta Urraca</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q6674" type="mit">diablo</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q164272">capricornuos</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q623407" type="place">Numancia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q509817">CIPIÓN</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q130614" type="place">Senado romano</wikidata>
+<wikidata type="event" ref="https://www.wikidata.org/wiki/Q1503611">Guerra</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q156173">JUGURTA</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q509817">Cipión</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q509817">CIPIÓN</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q177975">Mario</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q177975">MARIO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q177975">MARIO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q156173">JUGURTA</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q203673" type="mit"><wikidata ref="https://www.wikidata.org/wiki/Q3134" type="place">Calisto</wikidata></wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q3134" type="place">Calisto</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q29" type="place">España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q47652" type="mit">Venus</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q112" type="mit">Marte</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q623407" type="place">Numancia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1503611" type="event">guerra</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q47652" type="mit">Venus</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q645312" type="mit">Baco</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q623407" type="place">Numancia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q112" type="mit">Marte</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q509817">ínclito general</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q509817">ínclito general</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q509817">Cipión</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q274545">QUINTO FABIO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q274545">QUINTO FABIO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q48444" type="mit">fénix</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q14299" type="place">Duero</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q14299" type="place">Duero</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q14294" type="place">Tajo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q191481" type="mit">Proteo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q36724">Atila</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q237" type="place">Vaticano</wikidata>
+<wikidata>Albano</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q34417">segundo Filipo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q200262" type="place"><wikidata ref="https://www.wikidata.org/wiki/Q199442" type="place"><wikidata type="place" ref="https://www.wikidata.org/wiki/Q179293">tres reinos</wikidata></wikidata></wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q199442" type="place"><wikidata type="place" ref="https://www.wikidata.org/wiki/Q179293">tres reinos</wikidata></wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q179293">tres reinos</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q179293" type="place">Castilla</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q29" type="place">España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q14299" type="place">Duero</wikidata>
+<wikidata>TEÓGENES</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q4649" type="mit">Júpiter</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q4649" type="mit">Júpiter</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q4649" type="mit">Júpiter</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q112" type="mit">Marte</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q4649" type="mit">Júpiter</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q4649" type="mit">Júpiter</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q4649" type="mit">Júpiter</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q4649" type="mit">Júpiter</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q152262" type="mit">Plutón</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q32102" type="mit">Ceres</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q8843276">Estigio lago</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q8843276" type="mit">negra laguna</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q182790" type="mit">quimeras</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q509817">general</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q509817">general prudente</wikidata>
+<wikidata>Oriente</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q4649" type="mit">Eterno padre</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q4649" type="mit">Júpiter</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q32500">Carlos</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q34417">Filipo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q12860">Fernando</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q18808444">templo de Dïana</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q331889">VARIATO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q559871">SERVIO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q331889">VARIATO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q559871">SERVIO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q331889">VARIATO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q559871">SERVIO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q3351722">Olimpio</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q274545">FABIO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q220" type="place">Roma</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q274545">QUINTO FABIO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q29" type="place">España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q118992" type="person">MENANDRO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q3991395" type="mit">Timbreo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q3991395" type="mit">TIMBREO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q535107" type="mit">Camila</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q43018" type="place">templo de Diana</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q118992" type="person">Menandro</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q535107">Camila</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q47652">Venus</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1150" type="mit">Mercurio</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q118992">MENANDRO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q3991395" type="mit">TIMBREO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q118992">Menandro</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q3991395" type="mit">TIMBREO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q118992">Menandro</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q118992">MENANDRO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q37340" type="mit">Apolo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q373916">Ninfa</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q190323">ATALANTA</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q208588" type="mit">la mujer de <wikidata ref="https://www.wikidata.org/wiki/Q174353" type="mit">Orfeo</wikidata></wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q174353" type="mit">Orfeo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q37340" type="mit">Apolo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q512388">Androgeo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q506770" type="mit">Himeneo</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q38279853">rico templo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q37340" type="mit">Apolo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q20107930">oráculo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q3991395" type="mit">Timbreo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q37340" type="mit">Apolo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q535107">CAMILA</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q220344" type="mit">oráculo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q82073852" type="place">sagrado altar</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q194015">Dafnes</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q220344" type="mit">Oráculo</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q37340">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q82070" type="place">Tiro</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q37340" type="mit">Apolo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q47652" type="mit">Venus</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q4649" type="mit">planeta quinto</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q4649" type="mit">Júpiter</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q4649" type="mit">Júpiter</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q208531" type="mit">Anteón</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q961202" type="event">epiciclo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q190323">ATALANTA</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q37340">Apolo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q37340" type="mit">él</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q75459" type="place">Délfico</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q173148">Delio</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q285086">Cintio</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q12212276">Didimeo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q190323" type="mit">Atalanta</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q190323" type="mit">ATALANTA</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q12898802" type="place">Montes de Arcadia</wikidata>
+<wikidata>Ninfas de Cintia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q47652" type="mit">VENUS</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5011" type="mit">Cupido</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q112">sangriento soldado</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q4640">Vulcano</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5011" type="mit">CUPIDO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q47652" type="mit">VENUS</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5011" type="mit">CUPIDO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q240679">Hércules</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q180237">Fitón</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q112">Marte</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q47652">ninfa hermosa</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q211953">Anquises</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q132543" type="mit">Diana</wikidata>
+<wikidata type="place">monte Lathmo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q771366" type="mit">Mirra</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q878246" type="mit">a su mismo padre;</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q878246">a su padre</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q878246">El Rey</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q878246" type="mit">Ciniras</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q771366">Mirra</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q216068">Sabá</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q604898">Lucina</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q163920" type="mit">Adonis</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q152519" type="mit">basilisco</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q163920" type="mit">ADONIS</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q771366">madre</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q878246">padre</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q163920" type="mit">Adonis</wikidata>
+<wikidata type="mit">hijo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata type="mit">esfera</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q112">Dios de la guerra</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q112" type="mit">Marte</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q4640">marido</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q37340" type="mit">Febo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q37340" type="mit">Febo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q37340" type="mit">Febo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q37340">Febo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q229" type="place">Chipre</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q203480" type="mit">Faetón</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1455747" type="mit">HIPÓMENES</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1455747" type="mit">HIPÓMENES</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1455747">HIPÓMENES</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q10306277">monte, selva y prado</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q190323" type="mit">Atalanta</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q38279853">al templo</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q38279853">de Apolo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q37340" type="mit">divino dios Febeo</wikidata>
+<wikidata type="place">el monte</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q190323" type="mit">la bella <wikidata ref="https://www.wikidata.org/wiki/Q373916" type="mit">ninfa</wikidata> hermosa.</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q373916" type="mit">ninfa</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q247446" type="mit">rey Megareo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q47652" type="mit">Reina de las estrellas</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q47652" type="mit">lucero</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q47652" type="mit">madre de amor</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q47652" type="mit">retrato verdadero</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q47652" type="mit">de la piedad</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q207273" type="mit">JACINTO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5011" type="mit">Cupidillo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q131588" type="mit">GANIMEDES</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q179256" type="mit">Narciso</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q179256" type="mit">NARCISO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q131588" type="mit">GANIMEDES</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q179256" type="mit">NARCISO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q207273" type="mit">JACINTO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q207273" type="mit">JACINTO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q131588" type="mit">Ganimedes</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q131588" type="mit">GANIMEDES</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q207273" type="mit">Jacinto</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q207273" type="mit">JACINTO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q229" type="mit">Chipre</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata type="mit">Lucrecia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q905162" type="mit">Dido</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q220" type="place">Roma</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q29">España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q22647">Troya</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q47652" type="mit">madre</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q112" type="mit">Marte</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q134270" type="mit">Sol</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5011" type="mit">niño</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q4649" type="mit">Júpiter</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q47652" type="mit">Pastora celestial</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q47652" type="mit">belleza angélica</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q184874" type="mit">Arïadna</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q161582" type="mit">Andrómeda</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q103975" type="mit">Calíope</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q190323" type="mit">esposa</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q134270" type="mit">Sol</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q37340" type="mit">Febo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5011" type="mit">ti</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q47652" type="mit">lasciva madre</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q4640" type="mit">Vulcano</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q684" type="place">Oriente</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q679" type="place">Poniente</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q2" type="place">tierra</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q25322" type="place">Ártico</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q183273" type="place">polos</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q203673" type="mit">Calixto</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q131585" type="mit">Luna</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q272047" type="mit">Endimión</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q194015" type="mit">Dafnes</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q5011">niño Amor</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q152262" type="mit">Plutón</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q14515330" type="mit">Proserpina</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q3991817" type="mit">TESIFONTE</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q3991817" type="mit">Tesifonte</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q182101">Tántalos</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q83160" type="mit">Prometeos</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q3991817" type="mit">Tesifonte</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q46">Europa</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q48" type="place">Asia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q15" type="place">África</wikidata>
+<wikidata type="place">indianas playas</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q41" type="place">Grecia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q22647" type="place">Troya</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q170779" type="mit">Casandra</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q12898802" type="place">Arcadia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q102561" type="mit">Sísifo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q271891" type="mit">Ixïon</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q6612" type="mit">Caronte</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q193609" type="mit">Radamanto</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q83496" type="mit">Cancerbero</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q163920" type="mit">Adonis</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q57751375" type="mit">Arabia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q163920" type="mit">su</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q270710" type="mit">limbo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q619300" type="mit">Amadríades</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q5011">Niño</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q163920" type="mit">Él</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q47652" type="mit">ella</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q22647">Troya</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q29">España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q220" type="place">Roma</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q6343" type="place">Cartago</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q203480" type="mit">Faetón</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q37340" type="mit">yo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q3991817" type="mit">Tesifonte</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q37340" type="mit">Delio</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q115449" type="mit">Filomela</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q725286" type="mit">Coronis</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1231743" type="mit">Progne</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q602258" type="mit">Melampo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q190103" type="mit">Castor</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q452077">Menipo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q118992">MENANDRO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q118992">MENANDRO</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q163920" type="mit">él</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q220344" type="mit">oráculo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q37340" type="mit">Febo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q8717" type="place">Sevilla</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q210372" type="mit">D. JUAN</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q210372" type="mit">D. JUAN</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q210372" type="mit">D. JUAN</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q210372" type="mit">villano</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q29" type="place">España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q2634" type="place">Nápoles</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q426339" type="place">palacio real</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q217196" type="place">Castilla</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q2634" type="place">Nápoles</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q38882" type="place">mar de <wikidata ref="https://www.wikidata.org/wiki/Q38" type="place">Italia</wikidata></wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q38" type="place">Italia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1460" type="place">Sicilia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q490" type="place">Milán</wikidata>
+<wikidata type="place">España</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q29">España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q50193" type="event">caballo griego</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5823" type="place">Ceuta</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q126148" type="place">Tánger</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q919536" type="place">Villaverde</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q580391" type="place">Almendral</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q551056" type="place">Mértola</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1640239" type="place">Herrera</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q173063" type="place">Castilla</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q45" type="place">Portugal</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q597" type="place">Lisboa</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q29" type="place">España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q597" type="place">Lisboa</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q29" type="place">España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q54888" type="place">las tierras de <wikidata ref="https://www.wikidata.org/wiki/Q15098" type="place">Cuenca</wikidata></wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q15098" type="place">Cuenca</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q14294" type="place">Tajo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q29" type="place">España</wikidata>
+<wikidata>mar Oceano</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q3954" type="mit">Neptuno</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q273059" type="place">Cascaes</wikidata>
+<wikidata type="place">San Gian</wikidata>
+<wikidata type="place">Belén</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q389205" type="place">Alcántara</wikidata>
+<wikidata type="place">al convento de Jabregas</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q216822">Apeles</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q220" type="place">Romas</wikidata>
+<wikidata type="place">convento de Olivelas</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q597" type="place">Lisboa</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q5783">provincia <wikidata ref="https://www.wikidata.org/wiki/Q831469" type="place">Bética</wikidata></wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q831469" type="place">Bética</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q113120291"><foreign lang="pt">rua Nova</foreign> o calle Nueva</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q684">Oriente</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q207199">El terrero, donde tiene</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q45">Portugal</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q597">su casa regia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q142" type="place">Francia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q21" type="place">Ingalaterra</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1478288" type="place">palacio real</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q14294" type="place">Tajo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1478288" type="place">edificio de <wikidata ref="https://www.wikidata.org/wiki/Q47231" type="mit">Ulises</wikidata></wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q47231" type="mit">Ulises</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q597">Ulisibona</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q587697">al rey don Alfonso Enríquez</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q738004" type="place">Sierra de Estrella</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q8717" type="place">Sevilla</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q82732" type="mit">Eneas</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q905162" type="mit">reina de Cartago</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q22647" type="place">Troya</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q22647" type="place">Troyas</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q159666" type="mit">Héctor</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q462844" type="place">Ulloa</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1048">César</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1048">César</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q217196" type="place">Castilla</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q2634" type="place">Nápoles</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q2634" type="place">Nápoles</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q10305" type="place">El barrio de Cantarranas</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q601893" type="place">Tolú</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q597" type="place">Lisboa</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q261085" type="place">Lebrija</wikidata>
+<wikidata type="mit">Sierpe</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q70899" type="mit">Adán</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q498261" type="place">Alcázar</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q22647">Troya</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q38" type="place">Italia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q38" type="place">Italia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q756910">Calatrava</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q41553" type="mit">Coloso de Rodas</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q19546">Papa</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q14309" type="place">Guadalquivides</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5684" type="place">Babilonias</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q35230" type="mit">Lucifer</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q180141" type="place">Sodoma</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q564" type="mit">infierno</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q161652">japón</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q564">infierno</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q15088" type="place">En Tarragona</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q8818" type="place">Valencia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q210372" type="mit">don Juan Tenorio</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q4918" type="place">Robusto mar de España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q22647" type="place">Troya</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q4918" type="place">mar</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1394174">San Panuncio</wikidata>
+<wikidata>San Antón</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q498261" type="place">Alcázar</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q498261" type="place">Alcázar</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q4948">Venecia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q161936" type="mit">señora Muerte</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q16869" type="place">Costantinopla</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q586018" type="place">Osuna</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q6499496">Laura Terracina</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q272497">Ana Bins</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q17892">Sapho</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q257448">Valeria</wikidata>
+<wikidata type="person" ref="https://www.wikidata.org/wiki/Q12898817">Argentaria</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q520504">Vicente Espinel</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q114713796">Mariana Vaca</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q450246">fray Luis</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q450246">fray Luis</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q530936" type="event">Siglo Dorado</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5720" type="place">Valencia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q220" type="place">Roma</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q235113" type="mit">ángel</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q39503" type="mit">Artemisa</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q220" type="place">Roma</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q302" type="mit">Jesús</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q7559">dragones</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q317932" type="mit">Argos</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q212262">vellocino</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q48853" type="mit">Angélica</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q494762" type="mit">Júpiter cisne</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q48444" type="mit">Fenis</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q1231003">Concentaina</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q50202305" type="place">Puñoenrostro</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5011" type="mit">Amor</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1285" type="place">Apenino</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q1016">Libia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q57751375" type="place">Arabia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q83311" type="place">Persia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q15" type="place">África</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1028" type="place">Marruecos</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q34274" type="mit">Evangelio</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q40662" type="mit">San Juan</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q13409873" type="mit">Píramo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q10696861" type="mit">Tisbe</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q297776">Dioscórides</wikidata>
+<wikidata type="person" ref="https://www.wikidata.org/wiki/Q1541">Tulio</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q235113" type="mit">Ángel</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5720" type="place">Valencia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q450246">fray Luis</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1571145" type="event">misa del Gallo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q151967" type="mit">san Blas</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q40662" type="mit">San Juan</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5720" type="place">Valencia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5011" type="mit">Amor</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q40662" type="mit">San Juan</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5682">Miguel Cervantes</wikidata>
+<wikidata type="event" ref="https://www.wikidata.org/wiki/Q165425">Naval</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q241070">Galatea</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q174278" type="mit">Medea</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q163920">Adonis</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q47551">Tiziano</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5597">Rafael de Urbinas</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q555022">Martín de Vos</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q38" type="place">Italia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q323904" type="place">Indias portuguesas</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q235113">ángel</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q235113" type="mit">ángel</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q177413" type="mit">demonio</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q235113" type="mit">ángel</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q151967">san Blas</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q39503" type="mit">Artemisa</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q160730" type="mit">Medusa</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q289957">Jacob</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q207535" type="mit">Roldán</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q41746" type="mit">Aquiles</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q10316761" type="mit">Leandro</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q302">Jesú</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q220822">Esaú</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q37340" type="mit">Apolo</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5011" type="mit">dios de amor</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1149081" type="place">Oriente</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q29" type="place">España</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q8409">Alejandro</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q373916" type="mit">ninfa</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q132543" type="mit">Diana</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q184570" type="mit">Iris</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q132543" type="mit">Diana</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1150" type="mit">Mercurio</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1150" type="mit">Mercurio</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q132543" type="mit">Diana</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q101583">Tebas</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1611657" type="mit">Ifis</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q488621" type="mit">aquella que de mármol tiene el pecho</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q48853" type="mit">Angélica</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1116690" type="mit">Rodamontes</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q207535" type="mit">Orlando</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q163920">Adonis</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q13409873" type="mit">Píramo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q179256" type="mit">Narciso</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q2807">Madrid</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5720" type="place">Valencia</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q2807">Madrid</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q843382">Psiques</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q5011">Amor</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5011" type="mit">Amor</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q37340">Apolo</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q132543">Diana</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q132543" type="mit">Diana</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q235113">ángel</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q184570" type="mit">Iris</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q1150">Mercurio</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q42702348">Amadís</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q132543" type="mit">Diana</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q3393007" type="place">Zaidía</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q235113" type="mit">ángel</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q6674">diablo</wikidata>
+<wikidata type="mit">Jesús</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q6674" type="mit">diablo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q234" type="place">Flandes</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q302">Jesú</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q302" type="mit">Jesú</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q132543" type="mit">Diana</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q132543" type="mit">Diana</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q2807" type="mit">Madrid</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q30880528" type="mit">Gradaso</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q48853" type="mit">Angélica</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5720" type="place">Valencia</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q207535">Orlando</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5415468" type="mit">Sacripante</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q1158870" type="mit">Ferragud</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q48853">Angélica</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q3853841" type="mit">Medoro</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q29" type="place">España</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q2807" type="mit">Madrid</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q2807" type="place">Madrid</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata type="place" ref="https://www.wikidata.org/wiki/Q9064478">puente del Real</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5720" type="place">Valencia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5011" type="mit">dios de amor</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5720" type="place">Valencia</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q207535">Roldán</wikidata>
+<wikidata ref="https://en.wikipedia.org/wiki/Porcia_(wife_of_Brutus)">Porcia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q40662" type="mit">San Juan</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q6674" type="mit">diablo</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5720" type="place">Valencia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q35230" type="mit">Satanás</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q187602" type="mit">Circe</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q215681">Lanzarote</wikidata>
+<wikidata type="mit" ref="https://www.wikidata.org/wiki/Q825">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q187602" type="mit">Circe</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q5720" type="place">Valencia</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q302" type="mit">Jesús</wikidata>
+<wikidata ref="https://www.wikidata.org/wiki/Q825" type="mit">Dios</wikidata>
