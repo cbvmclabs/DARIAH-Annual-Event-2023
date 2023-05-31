@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cbvmclabs/DARIAH-Annual-Event-2023/HEAD)
+
 # DARIAH-Annual-Event2023
 This project was presented at the [DARIAH Annual Event 2023](https://www.dariah.eu/2022/12/14/dariah-annual-event-2023-call-for-papers-now-open/) as an example of reuse of digital collections based on Spanish Golden Age theatre in the form of a poster entitled "Named Entity Recognition and Knowledge Extraction from Spanish Golden Age theatre"
 
