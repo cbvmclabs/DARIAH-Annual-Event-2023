@@ -6,7 +6,7 @@ This project was presented at the [DARIAH Annual Event 2023](https://www.dariah.
 
 This work was presented as a poster in the event. 
 
-<img src="https://data.cervantesvirtual.com/mediacontent/2023/05/poster-dariah-annual-event.png">
+<img width="70%" src="https://data.cervantesvirtual.com/mediacontent/2023/05/poster-dariah-annual-event.png">
 
 ## License
 This work is licensed under a
