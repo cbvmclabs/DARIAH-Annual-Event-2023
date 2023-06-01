@@ -11,7 +11,7 @@ This work was performed in collaboration with master students at the [University
 This project has generated a list of notebooks as examples of reuse that can be useful to analyse the content:
 
 - [Generating a wordcloud based on the text annotated](https://nbviewer.org/github/cbvmclabs/DARIAH-Annual-Event-2023/blob/main/notebooks/text-wordcloud.ipynb)
-- [prototype to train a NER model based on Spacy](https://github.com/cbvmclabs/DARIAH-Annual-Event-2023/blob/main/notebooks/NER_example_spaCy_model_training_tceBVMC.ipynb)
+- [Prototype to train a NER model based on spaCy](https://github.com/cbvmclabs/DARIAH-Annual-Event-2023/blob/main/notebooks/NER_example_spaCy_model_training_tceBVMC.ipynb)
 
 ## Poster
 This work was presented as a poster in the event. 
